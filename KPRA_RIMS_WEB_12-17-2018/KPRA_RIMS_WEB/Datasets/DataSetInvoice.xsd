@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetInvoice" targetNamespace="http://tempuri.org/DataSetInvoice.xsd" xmlns:mstns="http://tempuri.org/DataSetInvoice.xsd" xmlns="http://tempuri.org/DataSetInvoice.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetInvoice" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetInvoice" msprop:Generator_UserDSName="DataSetInvoice">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_GetAllTaxesWithTaxRatesofaBusiness" msprop:Generator_TableClassName="tbl_GetAllTaxesWithTaxRatesofaBusinessDataTable" msprop:Generator_TableVarName="tabletbl_GetAllTaxesWithTaxRatesofaBusiness" msprop:Generator_TablePropName="tbl_GetAllTaxesWithTaxRatesofaBusiness" msprop:Generator_RowDeletingName="tbl_GetAllTaxesWithTaxRatesofaBusinessRowDeleting" msprop:Generator_RowChangingName="tbl_GetAllTaxesWithTaxRatesofaBusinessRowChanging" msprop:Generator_RowEvHandlerName="tbl_GetAllTaxesWithTaxRatesofaBusinessRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_GetAllTaxesWithTaxRatesofaBusinessRowDeleted" msprop:Generator_UserTableName="tbl_GetAllTaxesWithTaxRatesofaBusiness" msprop:Generator_RowChangedName="tbl_GetAllTaxesWithTaxRatesofaBusinessRowChanged" msprop:Generator_RowEvArgName="tbl_GetAllTaxesWithTaxRatesofaBusinessRowChangeEvent" msprop:Generator_RowClassName="tbl_GetAllTaxesWithTaxRatesofaBusinessRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="businessName" msprop:Generator_ColumnVarNameInTable="columnbusinessName" msprop:Generator_ColumnPropNameInRow="businessName" msprop:Generator_ColumnPropNameInTable="businessNameColumn" msprop:Generator_UserColumnName="businessName" type="xs:string" minOccurs="0" />
+              <xs:element name="businessCode" msprop:Generator_ColumnVarNameInTable="columnbusinessCode" msprop:Generator_ColumnPropNameInRow="businessCode" msprop:Generator_ColumnPropNameInTable="businessCodeColumn" msprop:Generator_UserColumnName="businessCode" type="xs:string" minOccurs="0" />
+              <xs:element name="salesTaxRate" msprop:Generator_ColumnVarNameInTable="columnsalesTaxRate" msprop:Generator_ColumnPropNameInRow="salesTaxRate" msprop:Generator_ColumnPropNameInTable="salesTaxRateColumn" msprop:Generator_UserColumnName="salesTaxRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmount" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_UserColumnName="TotalAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalTax" msprop:Generator_ColumnVarNameInTable="columnTotalTax" msprop:Generator_ColumnPropNameInRow="TotalTax" msprop:Generator_ColumnPropNameInTable="TotalTaxColumn" msprop:Generator_UserColumnName="TotalTax" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalNetAmount" msprop:Generator_ColumnVarNameInTable="columnTotalNetAmount" msprop:Generator_ColumnPropNameInRow="TotalNetAmount" msprop:Generator_ColumnPropNameInTable="TotalNetAmountColumn" msprop:Generator_UserColumnName="TotalNetAmount" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbl_GetAllTaxesTaxRateWise" msprop:Generator_TableClassName="tbl_GetAllTaxesTaxRateWiseDataTable" msprop:Generator_TableVarName="tabletbl_GetAllTaxesTaxRateWise" msprop:Generator_TablePropName="tbl_GetAllTaxesTaxRateWise" msprop:Generator_RowDeletingName="tbl_GetAllTaxesTaxRateWiseRowDeleting" msprop:Generator_RowChangingName="tbl_GetAllTaxesTaxRateWiseRowChanging" msprop:Generator_RowEvHandlerName="tbl_GetAllTaxesTaxRateWiseRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_GetAllTaxesTaxRateWiseRowDeleted" msprop:Generator_UserTableName="tbl_GetAllTaxesTaxRateWise" msprop:Generator_RowChangedName="tbl_GetAllTaxesTaxRateWiseRowChanged" msprop:Generator_RowEvArgName="tbl_GetAllTaxesTaxRateWiseRowChangeEvent" msprop:Generator_RowClassName="tbl_GetAllTaxesTaxRateWiseRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="salesTaxRate" msprop:Generator_ColumnVarNameInTable="columnsalesTaxRate" msprop:Generator_ColumnPropNameInRow="salesTaxRate" msprop:Generator_ColumnPropNameInTable="salesTaxRateColumn" msprop:Generator_UserColumnName="salesTaxRate" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalAmount" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_UserColumnName="TotalAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalTax" msprop:Generator_ColumnVarNameInTable="columnTotalTax" msprop:Generator_ColumnPropNameInRow="TotalTax" msprop:Generator_ColumnPropNameInTable="TotalTaxColumn" msprop:Generator_UserColumnName="TotalTax" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TotalNetAmount" msprop:Generator_ColumnVarNameInTable="columnTotalNetAmount" msprop:Generator_ColumnPropNameInRow="TotalNetAmount" msprop:Generator_ColumnPropNameInTable="TotalNetAmountColumn" msprop:Generator_UserColumnName="TotalNetAmount" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,455 @@
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\stdole.dll
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+D:\kpra_irfan\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRDESIGNERLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRReportPromptEMFLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.EMFGENLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.VLELib.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+D:\new\KPRA NEW VERSION\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\stdole.dll
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+D:\kpra_irfan\NewVersion\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRDESIGNERLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRReportPromptEMFLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.EMFGENLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.VLELib.dll
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+J:\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+J:\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRReportPromptEMFLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.EMFGENLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.VLELib.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+C:\Users\E-Intel\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\stdole.dll
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+C:\Users\sajee\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe.config
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.exe
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\KPRA RIMS.pdb
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRReportPromptEMFLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CRYPTEXTLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalClientDocLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsControllersLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.EMFGENLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.PROMPTINGLib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.SAXSERIALIZELib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\Interop.VLELib.dll
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.About.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddNewBusiness.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.CategoryList.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ChangePassword.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sales.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Business_Type.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Add_Business_Type.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AdminHome.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessTypeList.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.BusinessList.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportsForm.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ReportViewer.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Sale_Invoice.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Update_Product.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddSubCatagory.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.ProductList.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home2.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Type.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddCatagory.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Home.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.AddProduct.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Form1.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Keyboard.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA_RIMS.Properties.Resources.resources
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.exe
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.pdb
+C:\Users\User\Desktop\KPRA_RIMS\KPRA RIMS\obj\Debug\KPRA RIMS.csprojResolveAssemblyReference.cache

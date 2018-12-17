@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPRA RIMS", "KPRA RIMS\KPRA RIMS.csproj", "{B50AA186-4077-4DA5-A0C0-66CEE81E77BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KpraPOS01", "KpraPOS01\KpraPOS01.vdproj", "{485AEF60-CB5E-4BD2-93C9-235ABB21FB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50AA186-4077-4DA5-A0C0-66CEE81E77BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50AA186-4077-4DA5-A0C0-66CEE81E77BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50AA186-4077-4DA5-A0C0-66CEE81E77BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50AA186-4077-4DA5-A0C0-66CEE81E77BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485AEF60-CB5E-4BD2-93C9-235ABB21FB57}.Debug|Any CPU.ActiveCfg = Debug
+		{485AEF60-CB5E-4BD2-93C9-235ABB21FB57}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

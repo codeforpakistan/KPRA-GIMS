@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Tablix Name="Tablix1">
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>1.61458in</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>1.71701in</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>1.80902in</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>1.20659in</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.21875in</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox2">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>SALES TAX RATE</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <FontSize>9pt</FontSize>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox2</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#4e648a</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox3">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>TOTAL AMOUNT</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <FontSize>9pt</FontSize>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox3</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#4e648a</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox5">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>TOTAL TAX</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <FontSize>9pt</FontSize>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox5</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#4e648a</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox7">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>TOTAL NET AMOUNT</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <FontSize>9pt</FontSize>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox7</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#4e648a</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>WhiteSmoke</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+            <TablixRow>
+              <Height>0.21875in</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="salesTaxRate">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!salesTaxRate.Value</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <Color>#4d4d4d</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>salesTaxRate</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#e5e5e5</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="totalAmount">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!totalAmount.Value</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <Color>#4d4d4d</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>totalAmount</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#e5e5e5</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="TotalTax">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!TotalTax.Value</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <Color>#4d4d4d</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>TotalTax</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#e5e5e5</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="TotalNetAmount">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!TotalNetAmount.Value</Value>
+                              <Style>
+                                <FontFamily>Tahoma</FontFamily>
+                                <Color>#4d4d4d</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>TotalNetAmount</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>#e5e5e5</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+            <TablixMember />
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <KeepWithGroup>After</KeepWithGroup>
+            </TablixMember>
+            <TablixMember>
+              <Group Name="Details" />
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <DataSetName>DataSetInvoice</DataSetName>
+        <Left>0.00001in</Left>
+        <Height>0.4375in</Height>
+        <Width>6.34721in</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Tablix>
+      <Tablix Name="Tablix3">
+        <TablixCorner>
+          <TablixCornerRows>
+            <TablixCornerRow>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox20">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Total Sum</Value>
+                            <Style>
+                              <FontSize>8pt</FontSize>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox20</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+            </TablixCornerRow>
+          </TablixCornerRows>
+        </TablixCorner>
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>1.80902in</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>1.20659in</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.21986in</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="TotalTax1">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Sum(Fields!TotalTax.Value, "DataSetInvoice")</Value>
+                              <Style>
+                                <FontSize>8pt</FontSize>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>TotalTax1</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="TotalNetAmount1">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Sum(Fields!TotalNetAmount.Value, "DataSetInvoice")</Value>
+                              <Style>
+                                <FontSize>8pt</FontSize>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>TotalNetAmount1</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <Group Name="ColumnGroup">
+                <GroupExpressions>
+                  <GroupExpression />
+                </GroupExpressions>
+              </Group>
+              <TablixHeader>
+                <Size>0.21986in</Size>
+                <CellContents>
+                  <Textbox Name="Textbox18">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>TOTAL TAX SUM</Value>
+                            <Style>
+                              <FontSize>8pt</FontSize>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox18</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixHeader>
+            </TablixMember>
+            <TablixMember>
+              <TablixHeader>
+                <Size>0.21986in</Size>
+                <CellContents>
+                  <Textbox Name="Textbox23">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>TOTAL NET SUM</Value>
+                            <Style>
+                              <FontSize>8pt</FontSize>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox23</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>WhiteSmoke</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixHeader>
+            </TablixMember>
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <TablixHeader>
+                <Size>1.71701in</Size>
+                <CellContents>
+                  <Textbox Name="totalAmount1">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>=Sum(Fields!totalAmount.Value, "DataSetInvoice")</Value>
+                            <Style>
+                              <FontSize>8pt</FontSize>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>totalAmount1</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixHeader>
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <DataSetName>DataSetInvoice</DataSetName>
+        <Top>0.50694in</Top>
+        <Left>1.61459in</Left>
+        <Height>0.43972in</Height>
+        <Width>4.73262in</Width>
+        <ZIndex>1</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Tablix>
+    </ReportItems>
+    <Height>2in</Height>
+    <Style />
+  </Body>
+  <Width>8.49305in</Width>
+  <Page>
+    <LeftMargin>1in</LeftMargin>
+    <RightMargin>1in</RightMargin>
+    <TopMargin>1in</TopMargin>
+    <BottomMargin>1in</BottomMargin>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSetInvoice">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>c57a1d5e-6278-4041-8d6f-402c3167a9f0</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSetInvoice">
+      <Query>
+        <DataSourceName>DataSetInvoice</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="salesTaxRate">
+          <DataField>salesTaxRate</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="totalAmount">
+          <DataField>totalAmount</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="TotalTax">
+          <DataField>TotalTax</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="TotalNetAmount">
+          <DataField>TotalNetAmount</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>DataSetInvoice</rd:DataSetName>
+        <rd:SchemaPath>D:\kpra_git\kpra_git\KPRA_RIMS\KPRA_RIMS_WEB\Datasets\DataSetInvoice.xsd</rd:SchemaPath>
+        <rd:TableName>tbl_GetAllTaxesTaxRateWise</rd:TableName>
+        <rd:TableAdapterFillMethod />
+        <rd:TableAdapterGetDataMethod />
+        <rd:TableAdapterName />
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>44ec303c-1685-4ffa-b626-33f7cd331090</rd:ReportID>
+</Report>
